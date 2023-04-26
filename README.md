@@ -88,7 +88,7 @@ La ***Global Historical Climatology Network (GHCN)***  es una base de datos inte
 
 **3. Mediciones de precipitación por satélite PERSIANN (escala de 0.25x0.25 grados)**
 
-La ***Precipitation Estimation from Remotely Sensed Information using Artificial Neural Networks- Climate Data Record (PERSIANN-CDR)***  es la estimación de lluvia en la resolución de escala dada (escala de 0.25x0.25 grados). El siguiente atributo está disponible en el conjunto de datos de la categoría titulada de datos.
+La ***Precipitation Estimation from Remotely Sensed Information using Artificial Neural Networks- Climate Data Record (PERSIANN-CDR)***  es la estimación de lluvia en la resolución de escala dada (escala de 0.25x0.25 grados). El siguiente atributo corresponde a esta categoría.
 
 *  `precipitation_amt_mm` - Precipitación total
 
