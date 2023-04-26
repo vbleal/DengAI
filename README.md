@@ -142,8 +142,10 @@ Los datos proporcionados en esta categoría representan una medida de la vegetac
 
 ## Aprendizaje No Supervisado
 
-***Google Colab Python***
+***Clustering***
     
+*   [Google Colab]()
+
 *   [GitHub](https://github.com/vbleal/DengAI/tree/main/Unsupervised)
 
 
@@ -152,7 +154,9 @@ Los datos proporcionados en esta categoría representan una medida de la vegetac
 
 ## Aprendizaje Supervisado
 
-***Google Colab Python***
+***Modelo***
+    
+*   [Google Colab]()
     
 *   [GitHub](https://github.com/vbleal/DengAI/tree/main/Supervised)
 
