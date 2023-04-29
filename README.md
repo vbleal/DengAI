@@ -130,17 +130,14 @@ Los datos proporcionados en esta categoría representan una medida de la vegetac
 
 ## Resultados
 
-### MAE (DengAI)
-
-
-### MAE (Propio)
+![](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_Results.jpg)
 
 
 
 
 # Modelos
 
-## Aprendizaje No Supervisado
+## Unsupervised Learning
 
 ***Clustering***
     
@@ -148,6 +145,13 @@ Los datos proporcionados en esta categoría representan una medida de la vegetac
 
 *   [GitHub](https://github.com/vbleal/DengAI/tree/main/Unsupervised)
 
+
+## Supervised Learning
+
+    
+*   [Google Colab]()
+
+*   [GitHub](https://github.com/vbleal/DengAI/tree/main/Supervised)
 
 
 
