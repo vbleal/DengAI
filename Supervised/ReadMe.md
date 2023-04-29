@@ -28,12 +28,20 @@
 
 
 
-## Heatmap
+## Heatmap de Correlaciones
+
+### Heatmap de Correlaciones Train
 
 
 ![Heatmap de Correlaciones Train](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_HeatCorr_Train.png)
 
+
+### Heatmap de Correlaciones Train (Reducido)
+
 ![Heatmap de Correlaciones Train (Reducido)](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_HeatCorr_TrainRdc.png)
+
+
+### Heatmap de Correlaciones Test
 
 ![Heatmap de Correlaciones Test](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_HeatCorr_Test.png)
 
@@ -42,7 +50,7 @@
 
 
 
-## Boxplot
+## Boxplot Train (Reducido)
 
 ![Boxplot](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_Box_Train.png)
 
