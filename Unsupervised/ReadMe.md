@@ -38,6 +38,6 @@
 
 
 
-## Resultados (MAE)
+## Resultados
 
 ![](https://raw.githubusercontent.com/vbleal/DengAI/main/Unsupervised/UL_Results.jpg)
