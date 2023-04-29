@@ -7,7 +7,7 @@
 
 
 
-# DengAI
+# Introducción
 
 [DengAI](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/) es una competición organizada por la Fundación [DrivenData](https://www.drivendata.org/)  para resolver un problema crítico causado por los mosquitos utilizando datos históricos que contienen detalles sobre las condiciones ambientales para predecir la propagación de la enfermedad del dengue. 
 
