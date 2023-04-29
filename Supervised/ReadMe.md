@@ -6,14 +6,23 @@
 
 ## Histogramas
 
-[Histograma Train](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_Hist_Train.png)
 
-[Histograma Test](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_Hist_Test.png)
+### Histograma Train
+
+![Histograma Train](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_Hist_Train.png)
 
 
-[Histograma Train Máximos Casos en el Tiempo](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_Hist_MaxCases.png)
+### Histograma Test
 
-[Histograma Train Máximos Casos por Ciudad](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_Hist_MaxCasesCity.png)
+![Histograma Test](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_Hist_Test.png)
+
+### Histograma Train Máximos Casos en el Tiempo
+
+![Histograma Train Máximos Casos en el Tiempo](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_Hist_MaxCases.png)
+
+### Histograma Train Máximos Casos por Ciudad
+
+![Histograma Train Máximos Casos por Ciudad](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_Hist_MaxCasesCity.png)
 
 
 
@@ -22,14 +31,27 @@
 ## Heatmap
 
 
+![Heatmap de Correlaciones Train](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_HeatCorr_Train.png)
+
+![Heatmap de Correlaciones Train (Reducido)](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_HeatCorr_TrainRdc.png)
+
+![Heatmap de Correlaciones Test](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_HeatCorr_Test.png)
+
+
+
+
+
+
 ## Boxplot
 
-
-## 
-
+![Boxplot](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_Box_Train.png)
 
 
 
-## Resultados (MAE)
+
+
+
+
+## Resultados
 
 ![](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_Results.jpg)
