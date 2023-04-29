@@ -128,10 +128,6 @@ Los datos proporcionados en esta categoría representan una medida de la vegetac
 *  `ndvi_nw` - Píxel al noroeste del centroide de la ciudad
 
 
-## Resultados
-
-![](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_Results.jpg)
-
 
 
 
@@ -151,6 +147,12 @@ Los datos proporcionados en esta categoría representan una medida de la vegetac
 
 *   [GitHub](https://github.com/vbleal/DengAI/tree/main/Supervised)
 
+
+
+
+# Resultados
+
+![](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_Results.jpg)
 
 
 
