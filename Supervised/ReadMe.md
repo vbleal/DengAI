@@ -2,11 +2,20 @@
 [DengAI](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/)  Competition by [DrivenData](https://www.drivendata.org/) 
 
 
+## Histogramas
+
+
+## Heatmap
+
+
+## Boxplot
+
+
+## 
 
 
 
 
+## Resultados (MAE)
 
-# Resultados (MAE)
-
-![](https://raw.githubusercontent.com/vbleal/DengAI/main/Imag/DengAI_Sumissions_MAEs.jpg)
+![](https://raw.githubusercontent.com/vbleal/DengAI/main/Supervised/SL_Results.jpg)
